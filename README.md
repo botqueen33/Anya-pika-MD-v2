@@ -55,7 +55,7 @@ yarn
 
 ## ```Deploy On Heroku```
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PikaBotz/Anya_v2-MD)
+[![Deploy on Heroku](https://heroku.deploy.queenanya.work.gd/)
 
 
 
